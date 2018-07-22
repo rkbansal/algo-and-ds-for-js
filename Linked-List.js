@@ -1,5 +1,7 @@
 // Linked-list
-
+/**
+* Ref: https://codeburst.io/js-data-structures-linked-list-3ed4d63e6571
+**/
 class LinkedList {
     constructor(value) {
         this.head = null;
